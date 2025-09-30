@@ -27,15 +27,15 @@ Sempre em busca de **aprender mais, aprimorar minhas habilidades e trabalhar em 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Calantone&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevincalantone&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Calantone&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincalantone&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Calantone&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevincalantone&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 ---
@@ -43,11 +43,11 @@ Sempre em busca de **aprender mais, aprimorar minhas habilidades e trabalhar em 
 ## 🚀 Animações & Extras
 
 - ✨ Um pequeno toque animado no título:
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Apaixonado+por+Tecnologia;Sempre+Aprendendo&center=true&width=500&height=45)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Apaixonado+por+Tecnologia;Sempre+Aprendendo&center=true&width=500&height=45)
 
 - 🌍 Visitantes no perfil:  
-  ![Visitors](https://komarev.com/ghpvc/?username=Kevin-Calantone&color=blueviolet&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=kevincalantone&color=blueviolet&style=for-the-badge)
 
 ---
 
@@ -56,4 +56,4 @@ Sempre em busca de **aprender mais, aprimorar minhas habilidades e trabalhar em 
 🔗 Estou aberto a **colaborações, projetos ou oportunidades de estágio**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-calantone/)  
-📧 **E-mail:** kevinbragadomingues77@gmail.com  
+📧 **E-mail:** kevinbragadomingues77@gmail.com
