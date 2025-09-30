@@ -27,4 +27,33 @@ Sempre em busca de **aprender mais, aprimorar minhas habilidades e trabalhar em 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Calantone&show_icons=true&theme=tokyonight" alt="Es_
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Calantone&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Calantone&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Calantone&theme=tokyonight" alt="Streak Stats"/>
+</p>
+
+---
+
+## 🚀 Animações & Extras
+
+- ✨ Um pequeno toque animado no título:
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Apaixonado+por+Tecnologia;Sempre+Aprendendo&center=true&width=500&height=45)
+
+- 🌍 Visitantes no perfil:  
+  ![Visitors](https://komarev.com/ghpvc/?username=Kevin-Calantone&color=blueviolet&style=for-the-badge)
+
+---
+
+## 🤝 Vamos nos Conectar
+
+🔗 Estou aberto a **colaborações, projetos ou oportunidades de estágio**:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-calantone/)  
+📧 **E-mail:** kevinbragadomingues77@gmail.com  
