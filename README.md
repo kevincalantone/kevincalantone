@@ -9,16 +9,16 @@ Apaixonado por **Back-end**, **Automação de Processos** e **Análise de Dados*
 
 ## 🛠️ Tecnologias & Habilidades
 
-💻 **Linguagens:** Python, Java, JavaScript, SQL  
-🗄️ **Banco de Dados:** MySQL, PostgreSQL  
-🔧 **Ferramentas & Plataformas:** Git, GitHub, VS Code, Postman, Spring Boot  
+💻 **Linguagens:** Python, Java, SQL  
+🗄️ **Banco de Dados:** MySQL  
+🔧 **Ferramentas & Plataformas:** Git, GitHub, VS Code, Spring Boot, Postman  
 
 ---
 
 ### 🌟 Principais Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,postgres,git,github,vscode,springboot&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,springboot&perline=5" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Apaixonado por **Back-end**, **Automação de Processos** e **Análise de Dados*
 
 ---
 
-## 🚀 Animations & Extras
+## 🚀 Animações & Extras
 
 - 💻 **Mensagem animada:**
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Apaixonado+por+Tecnologia;Sempre+Aprendendo&center=true&width=600&height=50)
