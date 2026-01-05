@@ -53,6 +53,16 @@
 
 ---
 
+## 📊 Progresso de skills
+
+- ![Java](https://progress-bar.dev/90/?title=Java&color=ED8B00)  
+- ![Python](https://progress-bar.dev/85/?title=Python&color=3776AB)  
+- ![Django](https://progress-bar.dev/75/?title=Django&color=092E20)  
+- ![MySQL](https://progress-bar.dev/70/?title=SQL&color=4479A1)  
+- ![Angular](https://progress-bar.dev/65/?title=Angular&color=DD0031)  
+
+---
+
 ## 🎨 Animações & Extras
 
 - 💻 **Mensagem animada:**
@@ -60,13 +70,6 @@
 
 - 🌍 **Visitantes do perfil:**  
 ![Visitors](https://komarev.com/ghpvc/?username=kevincalantone&color=ff69b4&style=for-the-badge)
-
-- 📊 **Progresso de skills:**  
-![Java](https://progress-bar.dev/90/?title=Java&color=ED8B00)  
-![Python](https://progress-bar.dev/85/?title=Python&color=3776AB)  
-![Django](https://progress-bar.dev/75/?title=Django&color=092E20)  
-![MySQL](https://progress-bar.dev/70/?title=SQL&color=4479A1)  
-![Angular](https://progress-bar.dev/65/?title=Angular&color=DD0031)  
 
 ---
 
