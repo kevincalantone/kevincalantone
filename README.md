@@ -1,4 +1,4 @@
-👋 Olá! Eu sou Kevin Domingues
+👋 Olá! Eu sou Kevin
 
 ### 🎓 Desenvolvedor de Software | Full Stack (JavaScript & Python)
 ✅ **Curso concluído:** Análise e Desenvolvimento de Sistemas  
