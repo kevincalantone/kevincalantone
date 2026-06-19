@@ -2,7 +2,7 @@
 
 ### 🎓 Desenvolvedor de Software | Full Stack (NodeJS & React)
 ✅ **Curso concluído:** Análise e Desenvolvimento de Sistemas  
-🎯 **Foco:** JavaScript (React & Node.js), Python e SQL.
+
 
 ---
 
