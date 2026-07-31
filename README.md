@@ -1,19 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Ol%C3%A1%2C+eu+sou+Kevin+%F0%9F%91%8B;Full+Stack+Developer;Node.js+%2B+React+%2B+Python" alt="Typing SVG" />
+# Olá, eu sou Kevin 👋
 
-</div>
+### Desenvolvedor Full Stack | Node.js & React
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kevin%20Calantone&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Node.js%20%26%20React&descAlignY=55&descSize=16" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-### 🎓 Análise e Desenvolvimento de Sistemas — Curso Concluído
-🚀 Construindo aplicações eficientes, escaláveis e bem organizadas
+🎓 **Análise e Desenvolvimento de Sistemas** — Curso Concluído
 
 </div>
 
@@ -42,15 +33,14 @@
 
 ## ✨ Sobre Mim
 
-```yaml
-Nome: Kevin Calantone
-Foco: Boas práticas, código limpo e arquitetura bem estruturada
-Back-end: Node.js e Python
-Front-end: React / Next.js
-Banco de dados: SQL, modelagem e otimização de consultas
-APIs: Desenvolvimento e consumo de APIs REST
-Status: Aberto a projetos desafiadores e oportunidades profissionais
-```
+| | |
+|---|---|
+| 💡 | Foco em **boas práticas, código limpo e arquitetura bem estruturada** |
+| ⚙️ | Back-end com **Node.js e Python**, integrando com Front-end em **React** |
+| 🗄️ | Experiência com **bancos de dados SQL**, modelagem e otimização de consultas |
+| 🌐 | Desenvolvimento e consumo de **APIs REST** |
+| 🚀 | Objetivo: aplicações **eficientes, escaláveis e bem organizadas** |
+| 🤝 | Aberto a projetos desafiadores e oportunidades profissionais |
 
 ---
 
@@ -63,10 +53,6 @@ Status: Aberto a projetos desafiadores e oportunidades profissionais
 
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevincalantone&theme=radical&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevincalantone&theme=redical&hide_border=true&border_radius=10" width="100%"/>
 </div>
 
 ---
@@ -85,7 +71,5 @@ Status: Aberto a projetos desafiadores e oportunidades profissionais
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevincalantone&color=00F7FF&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es" />
+  <img src="https://komarev.com/ghpvc/?username=kevincalantone&color=blue&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
